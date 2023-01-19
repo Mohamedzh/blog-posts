@@ -12,4 +12,3 @@
 ### Run this project
 * Clone the repository.
 * Open the file index.html in any browser.
-* Or you can view it on gitHub Pages [here](https://mohamedzh.github.io/blog-posts/).
