@@ -1,0 +1,10 @@
+.p-card--highlighted {
+    border-top: 3px solid rgba(119, 4, 172, 0.726);
+    border-radius: 2px;
+    display: flex;
+    flex-direction: column;
+}
+
+.borderline {
+    border-top: 1px dotted #d9d9d9;
+}
